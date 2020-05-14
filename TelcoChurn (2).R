@@ -23,7 +23,7 @@ library(ggplot2)
 library(lattice)
 library(ROCR)
 #import data set
-setwd("E:/TEJA/niuFALL19_SEM3/665/group_project")
+setwd("E:/Anusha/niuFALL19_SEM3/665/group_project")
 loadData<-read.csv("telecomdata.csv")
 #divide the data 80-20 into train and test 
 trainData<-as.data.frame(loadData[1:6000,])
