@@ -1,4 +1,4 @@
-# R-Python
+# Customer Churn Analysis
 Customer churn also known as Customer attrition is the loss of customers. Customer analytics is a process by which data from customer behavior is used to make key business decisions via predictive analytics.
 Telephone service companies or Internet service providers are using analysis of customer attrition because cost of retaining an existing customer is far less as compared to acquiring the new customer. We are trying to Predict customer behavior to retain customers.
 
